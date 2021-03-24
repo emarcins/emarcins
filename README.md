@@ -2,11 +2,11 @@
 
 <br/>
 
-- 👋 **Hi, I’m @emarcins**
-- 👀 I’m frontend developer who see a huge potential in a whole Javascript ecosystem.
-- 🌱 I’m currently increase my knowledge about React and Vue.
-- 🥅 2021 Goals: I wanna learn Typescript.
-- 📫 Be free to contact with me, using mail: emarcins@gmail.com
+- 👋  **Hi, I’m @emarcins**
+- 👀  I’m frontend developer who see a huge potential in a whole Javascript ecosystem.
+- 🌱  I’m currently increase my knowledge about React and Vue.
+- 🥅  2021 Goals: I wanna learn Typescript.
+- 📫  Be free to contact with me, using mail: emarcins@gmail.com
 
 <br />
 

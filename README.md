@@ -4,6 +4,7 @@
 
 - 👋  **Hi, I’m @emarcins**
 - 👀  I’m frontend developer who see a huge potential in a whole Javascript ecosystem.
+- 🚀  Also i'm focus on develop my testing skills.
 - 🌱  I’m currently increase my knowledge about React.
 - 🥅  2021 Goals: I wanna learn Typescript.
 - 📫  Be free to contact with me, using mail: emarcins@gmail.com

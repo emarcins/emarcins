@@ -3,10 +3,8 @@
 <br/>
 
 - 👋  **Hi, I’m @emarcins**
-- 👀  I see a huge potential in a whole Javascript ecosystem and blockchain technology.
-- 🚀  Also I'm focus on develop my testing skills.
-- 🌱  I’m currently increase my knowledge about React and Solidity.
-- 🥅  2022 Goals: I wanna improve my Vue.js abilities.
+- 👀  I see a huge potential in a whole Javascript & Python ecosystem and machine learning.
+- 🚀  Also I'm focus on develop my testing skills 
 - 📫  Be free to contact with me, using mail: emarcins@gmail.com
 
 <br />

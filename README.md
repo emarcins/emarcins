@@ -27,7 +27,6 @@
 <img align="left" alt="GitHub" width="30px" src="https://skillicons.dev/icons?i=github" style="max-width:100%;">
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;">
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width:100%;">
-<img align="left" alt="Python" width="30px" height="30px" src="https://skillicons.dev/icons?i=mysql" style="max-width:100%;">
 
 
 <!---

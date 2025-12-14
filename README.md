@@ -21,7 +21,8 @@
 <img align="left" alt="Python" width="30px" height="30px" src="https://skillicons.dev/icons?i=sklearn" style="max-width:100%;">
 <img align="left" alt="Python" width="30px" height="30px" src="https://skillicons.dev/icons?i=anaconda" style="max-width:100%;">
 <img align="left" alt="Python" width="30px" height="30px" src="https://skillicons.dev/icons?i=azure" style="max-width:100%;">
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;">
+<img align="left" alt="Python" width="30px" height="30px" src="https://skillicons.dev/icons?i=pytorch" style="max-width:100%;">
+<img align="left" alt="Python" width="30px" height="30px" src="https://skillicons.dev/icons?i=docker" style="max-width:100%;">
 <img align="left" alt="npm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1920px-Npm-logo.svg.png" style="max-width:100%;">
 <img align="left" alt="Git" width="30px" src="https://skillicons.dev/icons?i=git" style="max-width:100%;">
 <img align="left" alt="GitHub" width="30px" src="https://skillicons.dev/icons?i=github" style="max-width:100%;">

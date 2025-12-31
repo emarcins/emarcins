@@ -4,7 +4,7 @@
 
 - 👋  **Hi, I’m @emarcins**
 - 👀  I see a huge potential in a whole Javascript & Python ecosystem and machine learning.
-- 🚀  Also I'm focus on develop my testing skills 
+- 🚀  Also I'm focus on developing my data analysis skills 
 - 📫  Be free to contact with me, using mail: emarcins@gmail.com
 
 <br />
